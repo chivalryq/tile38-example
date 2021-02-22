@@ -10,6 +10,8 @@ Tile38是一个专用的地理点、范围相关的高性能空间索引引擎�
 
 https://github.com/zweihander/tile38-client
 
+本文示例代码在repo:https://github.com/chivalryq/tile38-example
+
 ## 对象和CLI命令
 
 #### 对象
